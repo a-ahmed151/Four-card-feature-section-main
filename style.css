@@ -78,7 +78,7 @@ table {
 
 body{
     color: var(--Grey-400);
-    background-color: var(--Grey-400);
+    background-color: var(--White);
     font-size: var(--fs);
     font-weight: var(--fw-light);
     font-family: var(--ff);
